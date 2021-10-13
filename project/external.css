@@ -1,0 +1,16 @@
+
+        h1{
+            background-color: cyan;
+            color: rosybrown;
+        }
+    .a{
+        background-color: palegreen;
+        color: plum;
+        font-size: 30px;
+    }
+body{
+    font-family: 'Akronim', cursive;
+    background-image: url(a.jpg);
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+}
